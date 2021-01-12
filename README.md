@@ -7,6 +7,7 @@
 <p align="center"> </p>
 <h2 align="center">Status</h2>
 
+![Hey there, I'm Gonzalo. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
 
 <h2 align="center">Social Network</h2>
