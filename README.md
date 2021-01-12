@@ -7,9 +7,6 @@
 <p align="center"> </p>
 <h2 align="center">Status</h2>
 
-![Hey there, I'm Gonzalo. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
-
-
 <h2 align="center">Social Network</h2>
 <div align="center">
 <a href="https://github.com/Nargon271"><img src='https://simpleicons.org/icons/github.svg' alt='github' height='30'></a>
