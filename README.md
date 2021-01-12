@@ -4,9 +4,11 @@
 <p align="center">I'll be happy to talk about code, design, cooking and/or anime</p>
 
 <p align="center"> </p>
+<h2 align="center">Status</h2>
 
 
-Social Network:
+
+## Social Network:
 [<img src='https://simpleicons.org/icons/github.svg' alt='github' height='30'>](https://github.com/Nargon271 'GitHub Profile')
 [<img src='https://simpleicons.org/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/gonzalo-arguelles/ 'LinkedIn Profile')
 [<img src='https://simpleicons.org/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/nargon 'Codepen Profile')  
