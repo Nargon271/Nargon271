@@ -10,8 +10,9 @@
 
 
 <h2 align="center">Social Network</h2>
-<a align="center" href="https://github.com/Nargon271"><img src='https://simpleicons.org/icons/github.svg' alt='github' height='30'></a>
-<a align="center" href="https://www.linkedin.com/in/gonzalo-arguelles/"><img src='https://simpleicons.org/icons/linkedin.svg' alt='linkedin' height='30'></a>
-<a align="center" href="https://codepen.io/nargon"><img src='https://simpleicons.org/icons/codepen.svg' alt='codepen' height='30'></a> 
-
+<div align="center">
+<a href="https://github.com/Nargon271"><img src='https://simpleicons.org/icons/github.svg' alt='github' height='30'></a>
+<a href="https://www.linkedin.com/in/gonzalo-arguelles/"><img src='https://simpleicons.org/icons/linkedin.svg' alt='linkedin' height='30'></a>
+<a href="https://codepen.io/nargon"><img src='https://simpleicons.org/icons/codepen.svg' alt='codepen' height='30'></a> 
+</div>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nargon271&show_icons=true&theme=radical"/> </p>
