@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+<p align="center"> <img src="https://github.com/Nargon271/Nargon271/blob/main/Frame%201.png"/> </p>
+
 ![Gonzalo Argüelles - Front End Web Developer](https://github.com/Nargon271/Nargon271/blob/main/Frame%201.png)
 
 
