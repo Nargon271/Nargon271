@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Gonzalo Argüelles - Front End Web Developer](Frame 1.png)
+![Gonzalo Argüelles - Front End Web Developer](https://github.com/Nargon271/Nargon271/blob/main/Frame%201.png)
 
 
 Social Network:
