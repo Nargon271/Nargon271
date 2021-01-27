@@ -5,7 +5,6 @@
 <hr/>
 
 <p align="center"> </p>
-<h2 align="center">Status</h2>
 
 <h2 align="center">Social Network</h2>
 <div align="center">
